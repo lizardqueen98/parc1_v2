@@ -30,7 +30,6 @@ class MasinaTest {
         fabrika.dodajMaterijal("domaca", "m3", 3);
         fabrika.dodajMaterijal("domaca", "m5", 5);
     }
-
     void upaliSve() {
         assertDoesNotThrow(() -> {
             kupljena.upali();
@@ -67,7 +66,7 @@ class MasinaTest {
     @Test
     void upaliBacaIzuzetak() {
         assertDoesNotThrow(kupljena::upali);
-        assertThrows(WrongMachineState.class, kupljena::upali);
+        assertThrows(Masina.WrongMachineState.class, kupljena::upali);
     }
 
     @Test
@@ -80,7 +79,7 @@ class MasinaTest {
 
     @Test
     void ugasiBacaIzuzetak2() {
-        assertThrows(WrongMachineState.class, kupljena::ugasi);
+        assertThrows(Masina.WrongMachineState.class, kupljena::ugasi);
     }
 
     @Test
@@ -90,7 +89,7 @@ class MasinaTest {
             kupljena.ugasi();
         });
 
-        assertThrows(WrongMachineState.class, kupljena::ugasi);
+        assertThrows(Masina.WrongMachineState.class, kupljena::ugasi);
     }
 
     @Test
@@ -103,9 +102,8 @@ class MasinaTest {
 
     @Test
     void resetuj2() {
-        assertThrows(WrongMachineState.class, kupljena::resetuj);
+        assertThrows(Masina.WrongMachineState.class, kupljena::resetuj);
     }
-
 
     @Test
     void cijena() {
@@ -265,4 +263,5 @@ class MasinaTest {
             }
         }));
     }
+
 }

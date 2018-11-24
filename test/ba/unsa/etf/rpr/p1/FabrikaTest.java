@@ -259,4 +259,5 @@ class FabrikaTest {
             assertEquals(Integer.valueOf(5), entry.getValue());
         }));
     }
+
 }
