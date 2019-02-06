@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4158fba-1718-4091-b2df-2c89ba4fdc53" name="Default Changelist" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c4158fba-1718-4091-b2df-2c89ba4fdc53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DodatakZaDomacu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/MasinaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/MasinaTest.java" afterDir="false" />
     </list>
@@ -51,8 +51,14 @@
     <session id="1959975024">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,17 +68,48 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="19" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2783" />
+          <entry key="dummy" value="33" />
+          <entry key="java" value="2806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2783" />
+          <entry key="JAVA" value="4771" />
+          <entry key="PLAIN_TEXT" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="664834029">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2460" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2460" />
         </counts>
       </usages-collector>
     </session>
@@ -80,48 +117,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#2955#2963#0" expanded="true" />
-                <element signature="e#3218#3235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="304">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#421#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4305">
-              <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
+            <state relative-caret-position="101">
+              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
             </state>
           </provider>
         </entry>
@@ -139,36 +140,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/MasinaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="276">
+              <caret line="200" selection-start-line="200" selection-end-line="200" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1641#1642#0" expanded="true" />
-                <element signature="e#1692#1693#0" expanded="true" />
-                <element signature="e#2042#2043#0" expanded="true" />
-                <element signature="e#2119#2120#0" expanded="true" />
-                <element signature="e#2555#2556#0" expanded="true" />
-                <element signature="e#2634#2635#0" expanded="true" />
-                <element signature="e#3296#3297#0" expanded="true" />
-                <element signature="e#3345#3346#0" expanded="true" />
-                <element signature="e#3387#3388#0" expanded="true" />
-                <element signature="e#3435#3436#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-              <folding>
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -182,6 +167,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cijena</find>
+      <find>proizv</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -191,11 +182,13 @@
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DodatakZaDomace.java" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/KupljenaMasina.java" />
-        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java" />
-        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java" />
         <option value="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/MasinaTest.java" />
-        <option value="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DodatakZaDomacu.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/WrongMachineState.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java" />
+        <option value="$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java" />
       </list>
     </option>
   </component>
@@ -205,9 +198,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1612" />
-    <option name="height" value="876" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +251,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,8 +259,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543063847278" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rpr-t4" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549475078880" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rpr-p1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -277,96 +278,89 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MasinaTest.upali">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.Main" />
+  <component name="RunManager" selected="JUnit.All in rpr-p1-a">
+    <configuration name="All in rpr-p1-a" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rpr-p1-a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MasinaTest.resetuj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpr-p1-a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
-      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.MasinaTest" />
-      <option name="METHOD_NAME" value="resetuj" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MasinaTest.resetuj2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpr-p1-a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
-      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.MasinaTest" />
-      <option name="METHOD_NAME" value="resetuj2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MasinaTest.upali" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpr-p1-a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
-      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.MasinaTest" />
-      <option name="METHOD_NAME" value="upali" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ba.unsa.etf.rpr.p1 in rpr-p1-a" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rpr-p1-a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FabrikaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-p1-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.FabrikaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabrikaTest.dajMasine3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-p1-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.FabrikaTest" />
+      <option name="METHOD_NAME" value="dajMasine3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabrikaTest.ispisi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-p1-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.FabrikaTest" />
+      <option name="METHOD_NAME" value="ispisi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasinaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-p1-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.p1" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.p1.MasinaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.ba.unsa.etf.rpr.p1 in rpr-p1-a" />
-      <item itemvalue="JUnit.MasinaTest.upali" />
-      <item itemvalue="JUnit.MasinaTest.resetuj2" />
-      <item itemvalue="JUnit.MasinaTest.resetuj" />
+      <item itemvalue="JUnit.FabrikaTest" />
+      <item itemvalue="JUnit.FabrikaTest.dajMasine3" />
+      <item itemvalue="JUnit.MasinaTest" />
+      <item itemvalue="JUnit.All in rpr-p1-a" />
+      <item itemvalue="JUnit.FabrikaTest.ispisi" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MasinaTest.upali" />
-        <item itemvalue="JUnit.MasinaTest.resetuj" />
-        <item itemvalue="JUnit.MasinaTest.resetuj2" />
-        <item itemvalue="JUnit.ba.unsa.etf.rpr.p1 in rpr-p1-a" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in rpr-p1-a" />
+        <item itemvalue="JUnit.FabrikaTest.ispisi" />
+        <item itemvalue="JUnit.MasinaTest" />
+        <item itemvalue="JUnit.FabrikaTest.dajMasine3" />
+        <item itemvalue="JUnit.FabrikaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -380,69 +374,85 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542974441395</updated>
-      <workItem from="1543058602536" duration="5128000" />
+      <workItem from="1543058602536" duration="5322000" />
+      <workItem from="1543413477485" duration="884000" />
+      <workItem from="1543437342394" duration="155000" />
+      <workItem from="1545257512836" duration="337000" />
+      <workItem from="1548883153673" duration="4433000" />
+      <workItem from="1549285430369" duration="3715000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1543063986526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543063986526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MasinaTest_upali - 2018.11.24 at 13h 25m 16s.xml">
-      <configuration name="MasinaTest.upali" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 29m 11s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_upali - 2018.11.24 at 13h 26m 20s.xml">
-      <configuration name="MasinaTest.upali" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 33m 42s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_upali - 2018.11.24 at 13h 28m 23s.xml">
-      <configuration name="MasinaTest.upali" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 34m 29s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_upali - 2018.11.24 at 13h 33m 57s.xml">
-      <configuration name="MasinaTest.upali" configurationId="JUnit" />
+    <history-entry file="FabrikaTest_ispisi - 2019.02.06 at 17h 35m 34s.xml">
+      <configuration name="FabrikaTest.ispisi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_resetuj2 - 2018.11.24 at 13h 34m 43s.xml">
-      <configuration name="MasinaTest.resetuj2" configurationId="JUnit" />
+    <history-entry file="FabrikaTest_ispisi - 2019.02.06 at 17h 36m 54s.xml">
+      <configuration name="FabrikaTest.ispisi" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_resetuj2 - 2018.11.24 at 13h 40m 02s.xml">
-      <configuration name="MasinaTest.resetuj2" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 38m 24s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_resetuj - 2018.11.24 at 13h 40m 18s.xml">
-      <configuration name="MasinaTest.resetuj" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 46m 47s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_resetuj - 2018.11.24 at 13h 41m 16s.xml">
-      <configuration name="MasinaTest.resetuj" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 52m 19s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_resetuj - 2018.11.24 at 13h 43m 30s.xml">
-      <configuration name="MasinaTest.resetuj" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 17h 56m 58s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MasinaTest_upali - 2018.11.24 at 13h 43m 38s.xml">
-      <configuration name="MasinaTest.upali" configurationId="JUnit" />
+    <history-entry file="All_in_rpr-p1-a - 2019.02.06 at 18h 10m 38s.xml">
+      <configuration name="All in rpr-p1-a" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5128000" />
+    <option name="totallyTimeSpent" value="14846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="DB Browser" />
+      <window_info id="Project Explorer" weight="0.32980332" />
+      <window_info id="Job Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.33770493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3442623" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -450,37 +460,43 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32899022" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="DB Browser" order="0" />
+      <window_info id="Project Explorer" order="1" weight="0.32980332" />
+      <window_info id="Job Explorer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.1762481" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Favorites" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="DB Execution Console" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49924356" visible="true" weight="0.33770493" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3442623" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,13 +510,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/KupljenaMasina.java" />
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -508,83 +519,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/KupljenaMasina.java">
+    <entry file="file://$PROJECT_DIR$/PostavkaL1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Materijal.java">
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/WrongMachineState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#2955#2963#0" expanded="true" />
-            <element signature="e#3218#3235#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/DomacaMasina.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/MasinaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="276">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1641#1642#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
-            <element signature="e#2042#2043#0" expanded="true" />
-            <element signature="e#2119#2120#0" expanded="true" />
-            <element signature="e#2555#2556#0" expanded="true" />
-            <element signature="e#2634#2635#0" expanded="true" />
-            <element signature="e#3296#3297#0" expanded="true" />
-            <element signature="e#3345#3346#0" expanded="true" />
-            <element signature="e#3387#3388#0" expanded="true" />
-            <element signature="e#3435#3436#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/ba/unsa/etf/rpr/p1/FabrikaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4305">
-          <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
+        <state relative-caret-position="101">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Fabrika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="304">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#421#437#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/p1/Masina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
         </state>
       </provider>
     </entry>

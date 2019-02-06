@@ -155,20 +155,17 @@ class FabrikaTest {
 
     @org.junit.jupiter.api.Test
     void ispisi() {
-        String s = "" + fabrika;
-
+        String s = fabrika.toString();
+        //System.out.println(s);
         String expected =
                 "1. Masina domaca je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n" +
-                "2. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n";
+                        "2. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n";
 
         String expectedAlt =
                 "1. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n" +
-                "2. Masina domaca je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n";
+                        "2. Masina domaca je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n";
 
-
-        if ( !expected.equals(s) && !expectedAlt.equals(s) ) {
-            fail();
-        }
+        assertTrue(expected.equals(s) || expectedAlt.equals(s));
     }
 
 
@@ -176,20 +173,18 @@ class FabrikaTest {
     void ispisi2() {
         assertDoesNotThrow(domaca::ugasi);
 
-        String s = "" + fabrika;
+        String s = fabrika.toString();
 
         String expected =
                 "1. Masina domaca je ugasena. Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n" +
-                "2. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n";
+                        "2. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n";
 
         String expectedAlt =
                 "1. Masina kupljena je upaljena (preostalo 8 sati). Ona moze proizvesti materijale m1 (1), m5 (5).\n" +
-                "2. Masina domaca je ugasena. Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n";
+                        "2. Masina domaca je ugasena. Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n";
 
 
-        if ( !expected.equals(s) && !expectedAlt.equals(s) ) {
-            fail();
-        }
+        assertTrue(expected.equals(s) || expectedAlt.equals(s));
     }
 
     @Test
@@ -205,7 +200,7 @@ class FabrikaTest {
         assertDoesNotThrow(domaca::ugasi);
         assertDoesNotThrow(() -> kupljena.proizvedi("m5"));
 
-        String s = "" + fabrika;
+        String s = fabrika.toString();
 
         String expected =
                 "1. Masina domaca je ugasena. Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n" +
@@ -216,9 +211,8 @@ class FabrikaTest {
                         "2. Masina domaca je ugasena. Ona moze proizvesti materijale m1 (1), m3 (3), m5 (5).\n";
 
 
-        if ( !expected.equals(s) && !expectedAlt.equals(s) ) {
-            fail();
-        }
+        assertTrue(expected.equals(s) || expectedAlt.equals(s));
+
     }
 
 
@@ -259,5 +253,4 @@ class FabrikaTest {
             assertEquals(Integer.valueOf(5), entry.getValue());
         }));
     }
-
 }

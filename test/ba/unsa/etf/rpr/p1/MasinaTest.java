@@ -1,5 +1,6 @@
 package ba.unsa.etf.rpr.p1;
 
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
@@ -66,7 +67,7 @@ class MasinaTest {
     @Test
     void upaliBacaIzuzetak() {
         assertDoesNotThrow(kupljena::upali);
-        assertThrows(Masina.WrongMachineState.class, kupljena::upali);
+        assertThrows(WrongMachineState.class, kupljena::upali);
     }
 
     @Test
@@ -79,7 +80,7 @@ class MasinaTest {
 
     @Test
     void ugasiBacaIzuzetak2() {
-        assertThrows(Masina.WrongMachineState.class, kupljena::ugasi);
+        assertThrows(WrongMachineState.class, kupljena::ugasi);
     }
 
     @Test
@@ -89,7 +90,7 @@ class MasinaTest {
             kupljena.ugasi();
         });
 
-        assertThrows(Masina.WrongMachineState.class, kupljena::ugasi);
+        assertThrows(WrongMachineState.class, kupljena::ugasi);
     }
 
     @Test
@@ -102,7 +103,7 @@ class MasinaTest {
 
     @Test
     void resetuj2() {
-        assertThrows(Masina.WrongMachineState.class, kupljena::resetuj);
+        assertThrows(WrongMachineState.class, kupljena::resetuj);
     }
 
     @Test
